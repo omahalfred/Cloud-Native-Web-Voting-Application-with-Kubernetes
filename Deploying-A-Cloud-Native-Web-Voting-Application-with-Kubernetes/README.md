@@ -83,7 +83,7 @@ If using EC2 and getting the "You must be logged in to the server (Unauthorized)
 
 Clone the github repo
 
-git clone https://github.com/omahalfred/Deploying-A-Cloud-Native-Web-Voting-Application-with-Kubernetes.git
+git clone https://github.com/omahalfred/Cloud-Native-Web-Voting-Application-with-Kubernetes.git
 Create my-ns Namespace
 
 kubectl create ns my-ns
